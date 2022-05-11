@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Este es el login page.
+          Este es el register page....
         </p>
         <a
           className="App-link"
